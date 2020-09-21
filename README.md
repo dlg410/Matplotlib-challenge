@@ -1,5 +1,7 @@
 # Matplotlib Homework - The Power of Plots
 
+* Diego Gonzalez - [@dlg410](https://github.com/dlg410)
+
 ## Background
 
 What good is data without a good plot to tell the story?
@@ -74,4 +76,4 @@ Here are some final considerations:
 
 ### Copyright
 
-Trilogy Education Services © 2019. All Rights Reserved.
+<!-- Trilogy Education Services © 2019. All Rights Reserved. -->
